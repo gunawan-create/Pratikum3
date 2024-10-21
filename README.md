@@ -1,6 +1,6 @@
 # Pratikum3
 
-## Membuat repository
+## Membuat Repository
 
 ### Membuat akun github
 
