@@ -71,7 +71,7 @@ dan save sesuai dengan keinginan anda:
 
 Pertama tama yang pasti anda harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
 
-![Gambar1](Png/Flowchart.png)
+![Flowchart](https://github.com/user-attachments/assets/28009564-4db4-4c4f-8a4d-8184d8cda659)
 
 ### Langkah langkah dalam flowchatr
 
@@ -121,7 +121,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/vscode1.png?raw=true)
+![vscode1](https://github.com/user-attachments/assets/7bf963c4-dc41-4fcc-aa06-942018686fa2)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
