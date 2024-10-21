@@ -73,7 +73,7 @@ Pertama tama yang pasti anda harus membuat flowchatr terlebih dahulu seperti gam
 
 ![Flowchart](https://github.com/user-attachments/assets/28009564-4db4-4c4f-8a4d-8184d8cda659)
 
-### Langkah langkah dalam flowchatr
+### Langkah langkah dalam flowchart
 
 1. Mulai: Titik awal proses.
 
