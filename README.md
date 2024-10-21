@@ -40,3 +40,13 @@ tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu c
 setelah selesai melakukan penginstalan maka tampilannya akan seperti ini:
 
 ![Screenshot 2024-10-21 225324](https://github.com/user-attachments/assets/4a922cd7-da8f-4559-b358-eae3e41ae126)
+
+Selanjutnya kalian masukan kode kode tersebut, kode tersebut yang berupa "pwd" adalah untuk memeriksa data file sebelum memulai ke langkah berikutnya,
+selanjutnya kalian kembali ke dalam web github untuk mengcopy link repository yang sudah kalian buat, tekan kolom "Code" lalu salin code tersebut :
+
+![Screenshot 2024-10-21 225854](https://github.com/user-attachments/assets/54b8c182-da66-421a-8b87-adac06163d75)
+
+lalu kembali ke fit tools dan lanjutkan dengan code "git clone copy link yang tadi", lalu cari file README.md pada file Web1La1:
+
+![Screenshot 2024-10-21 230217](https://github.com/user-attachments/assets/db639f66-6f7f-4a10-8628-b60e8454e860)
+
