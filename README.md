@@ -48,5 +48,23 @@ selanjutnya kalian kembali ke dalam web github untuk mengcopy link repository ya
 
 lalu kembali ke fit tools dan lanjutkan dengan code "git clone copy link yang tadi", lalu cari file README.md pada file Web1La1:
 
-![Screenshot 2024-10-21 230217](https://github.com/user-attachments/assets/db639f66-6f7f-4a10-8628-b60e8454e860)
+![Screenshot 2024-10-21 230508](https://github.com/user-attachments/assets/c71c9011-073d-43d0-bdfc-3fe26745162c)
+
+
+lalu buka file README.md dengan vs code mkan tampolan dari README.md kalian akan seperti ini:
+
+![vsc](https://github.com/user-attachments/assets/d6a92ae7-aef6-483d-a7cb-b1a53010975b)
+
+lalu kalian buat file baru:
+
+![newfile](https://github.com/user-attachments/assets/be70b973-63d9-4e88-b7dc-8548f3fd59ac)
+
+lalu diganti menjadi Python:
+
+![py](https://github.com/user-attachments/assets/528a8424-f8d1-467e-b85d-1384d58d6437)
+
+dan save sesuai dengan keinginan kalian:
+
+![Screenshot 2024-10-21 231243](https://github.com/user-attachments/assets/18d79ffd-39ed-48aa-993e-8c3457bacaaf)
+
 
