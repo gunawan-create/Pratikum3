@@ -1,5 +1,8 @@
 # Pratikum3
-Tugas Pertemuan Ke 6
-Nama: Ali Gunawan
-Kelas: TI.24.A3
-NIM: 312410377
+
+## Membuat repository
+
+### Membuat akun github
+
+pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
+apabila sudah membuat/memiliki akunnya silahkan login dan akan ada tampilan profil seperti ini:
